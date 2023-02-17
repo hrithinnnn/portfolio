@@ -122,7 +122,7 @@ h1 {
 	text-align:left;
 	font-size:200%;
 	color:#626477;
-	border-bottom:1px dashed #eeeeee;
+/* 	border-bottom:1px dashed #eeeeee; */
 	padding-top:15px !important;
 	padding-top:0;
 	background-image:url(images/leaf.jpg);
